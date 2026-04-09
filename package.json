@@ -1,0 +1,26 @@
+{
+  "name": "how-to-win-dice-game-malaysia",
+  "version": "1.0.0",
+  "description": "Free online dice game for Malaysian players",
+  "main": "index.html",
+  "keywords": [
+    "dice",
+    "online-game",
+    "casino",
+    "browser-game",
+    "javascript",
+    "html5",
+    "free-game",
+    "malaysia"
+  ],
+  "author": "ArvanVOD",
+  "license": "MIT",
+  "homepage": "https://johmark2026-svg.github.io/how-to-win-dice-game-malaysia/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/johmark2026-svg/how-to-win-dice-game-malaysia.git"
+  },
+  "scripts": {
+    "start": "python3 -m http.server 8080"
+  }
+}
